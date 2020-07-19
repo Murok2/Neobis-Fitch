@@ -1,0 +1,15 @@
+.section{
+  color: #000;
+  width: 100%;
+  max-width: 1170px;
+  margin-left: 90px;
+}
+
+.paragraph{
+  background-color: antiquewhite;
+}
+h1{
+  margin-left: 360px;
+  font-size: 40px;
+  color: black;
+}
